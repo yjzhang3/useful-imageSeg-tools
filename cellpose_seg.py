@@ -1,3 +1,15 @@
+""" Instructor: Zachary Fox
+Author: Zachary Fox
+Contact Info: zachfox@lanl.gov
+ 
+Copyright (c) 2021 Dr. Brian Munsky. 
+Dr. Luis Aguilera, Will Raymond
+Colorado State University.
+Licensed under MIT License.
+"""
+
+""" Live Tutorial 1a – Single-cell segmentation in Python (Zach Fox) """
+
 %matplotlib inline
 import skimage as sk
 import numpy as np
